@@ -1,0 +1,52 @@
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\Npgsql.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\BackPropagation.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\bin\Debug\Npgsql.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\лабораторні\Labs\CourseWork\obj\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\Npgsql.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\BackPropagation.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\bin\Debug\Npgsql.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Labs\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.exe
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\BackPropagation.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\Npgsql.dll
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\BackPropagation.pdb
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\Npgsql.xml
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Навчання\третій курс\Інтелектуальні системи аналізу даних\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.exe.config
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.exe
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.pdb
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.Form1.resources
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.exe
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\CourseWork.pdb
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\BackPropagation.dll
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\Npgsql.dll
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\BackPropagation.pdb
+\\VBOXSVR\Virtual\CourseWork2-master\Курсова Любомира\Мережа метод врахування\Labs\CourseWork\bin\Debug\Npgsql.xml
